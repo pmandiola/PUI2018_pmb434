@@ -16,6 +16,6 @@ This assignment was to learn how to use statsmodels package to do OLS and WLS re
 
 ## Assignment 3
 
-In this assignment I analyzed the relationship on the number of mass shootings, homicide by firearms, and civilian firearms by country, which consistently showed the USA as a far outlier.
+In this assignment I analyzed the relationship on the number of mass shootings, homicide by firearms, and civilian firearms by country, which consistently showed the USA as a far outlier. The analysis also considered the countries population and GDP for comparison.
 
 [Link to Jupyter Notebook](HW9_3_pmb434.ipynb)
